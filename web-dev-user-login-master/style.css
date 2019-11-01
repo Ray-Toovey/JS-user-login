@@ -1,0 +1,79 @@
+body{
+    background: url(images/background.jpg) no-repeat center fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: 'roboto', sans-serif;
+}
+
+div.div1{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 600px;
+    margin: auto;
+    padding: 20px 0 10px;
+    border-radius: 15px;
+    border:2px solid purple;
+    margin-top: 40px;
+}
+ 
+
+div.logon{
+    background-color:purple;
+    color: white;
+    padding: 15px 0 25px;
+    margin-top:-30px
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 25px;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: yellow;
+
+}
+
+img{
+    height: 250px;
+    padding: 10px;
+    margin-bottom: 20px
+}
+
+p{
+    margin-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+div.search{
+    padding-top: 10px;
+}
+
+button{
+    background-color:green;
+    font-size: 20px;
+    color:white;
+    padding: 7px 20px;
+    margin-top:-15px
+}
+
+hr{
+    width:285px
+}
+
+.socmed{
+    width:50px;
+    height:50px;
+    padding:10px 5px;
+    margin-bottom: -10px;
+}
+
+.forget{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.pass{
+    margin-top:-15px
+}
